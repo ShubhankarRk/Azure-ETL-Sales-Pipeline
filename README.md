@@ -6,8 +6,6 @@ This project showcases a production-ready end-to-end data pipeline built on Azur
 
 🔧 Tech Stack
 
----
-
 Azure Data Factory – Orchestration and parameterized workflows
 
 Databricks – Distributed data processing with PySpark
@@ -24,8 +22,6 @@ GitHub API – Source of raw car sales data
 
 📌 Features
 
----
-
 🔁 Incremental Loading using parameterized ADF pipelines
 
 ⚙️ Reusable Workflow with managed identities and linked services
@@ -34,8 +30,6 @@ GitHub API – Source of raw car sales data
 
 🌟 Star Schema modeling and SCD logic with PySpark
 
-![Star_schema_salesetl](https://github.com/user-attachments/assets/9bdafeee-73c7-440f-99ee-cb12fd430800)
-
 🔐 Secure Access Control via Unity Catalog
 
 🚀 Performance Gains: Reduced analyst refresh lag by 60%
@@ -43,8 +37,6 @@ GitHub API – Source of raw car sales data
 ---
 
 📁 Architecture Overview
-
----
 
 ![Architecture](https://github.com/user-attachments/assets/0258957b-4cb4-4f6d-9c79-29ccb92aaa0b)
 
@@ -65,8 +57,6 @@ Access: Unity Catalog ensures secure, governed access
 ---
 
 📊 Outcome
-
----
 
 Enabled scalable, automated data preparation for analytics
 
